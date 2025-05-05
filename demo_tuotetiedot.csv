@@ -1,0 +1,4 @@
+GTIN,Tuotteen_nimi,Paino,Paino_yksikko,Brändi,Alkuperämaa,Postinumero,Paikkakunta,Tuottaja,CO2,Energia,Energia (kcal),Rasva (g),Hiilihydraatit (g),Proteiini (g),Suola (g)
+1234570000000,Kasvispihvi,300,g,VegGo,Suomi,100,Helsinki,VegFood Oy,1.2,Aurinko,150,5,15,10,0.8
+2345680000000,Luomujogurtti,250,g,NatureBest,Ruotsi,200,Tukholma,EcoDairy AB,0.8,Tuuli,120,3,12,5,0.5
+3456790000000,Kauraleipä,400,g,GrainWay,Suomi,300,Espoo,BreadMakers Oy,0.5,Vesivoima,180,2,20,6,0.6
